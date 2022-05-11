@@ -9,12 +9,12 @@ package pkg1programa;
  *
  * @author sebas
  */
-public class Ejemplo_Guia1 {
+public class Ejemplo2_Guia1 {
     public static void main(String[] args) {
-String nombre;
-boolean bandera;
-char letra;
+int numero = 48;
+double decimales = 3.55;
+boolean bandera = false;
 }
+
 }
-    
 
