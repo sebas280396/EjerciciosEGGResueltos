@@ -18,7 +18,7 @@ public class Practica9 {
       longitud = palabra.length();
       String cadena;
       cadena = palabra.substring(0,1);
-      if(cadena.equals("A")){
+      if(cadena.equals("A") || cadena.equals("a")){
           System.out.println("CORRECTO");
       }
       else{
